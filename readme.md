@@ -1,6 +1,6 @@
-*PalGeeks Logo
+#PalGeeks Logo
 
-**I don't own the font, please make note of this.
+I don't own the font, please make note of this.
 
-**V 0.1
-**Author: [Rami GB](http://www.twitter.com/ramigb)
+####version : 0.1
+####author: [Rami GB](http://www.twitter.com/ramigb)
